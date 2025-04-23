@@ -52,8 +52,6 @@ A comprehensive travel booking system featuring:
 |-------------------------|--------------------------|
 | Frontend Framework      | Qt Widgets              |
 | Pathfinding Algorithm   | Dijkstra (Adjacency List)|
-| Data Persistence        | SQLite Database         |
-| Security                | AES-256 Encryption      |
 
 ---
 
